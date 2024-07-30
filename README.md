@@ -3,9 +3,7 @@
 
 <h1 align="left">Gaeul Lee</h1>
 <p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rhakq23@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/rhakq23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp
+  <img src="https://img.shields.io/badge/rhakq23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <a href="https://velog.io/@22_gaeul" target="_blank">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
